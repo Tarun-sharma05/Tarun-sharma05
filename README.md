@@ -5,13 +5,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tarun-sharma05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/tarun-sharma-b1b20b244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+  <a href="https://www.hackerrank.com/profile/tarundadhich05">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="https://leetcode.com/u/tarun-shaarma45/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
@@ -41,13 +41,13 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/tarun-sharma-b1b20b244/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK" target="_blank">
+  <a href="https://www.hackerrank.com/tarundadhich05" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+  <a href="https://leetcode.com/tarun-shaarma45" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -125,7 +125,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **PillPort** | Full-stack pharmacy app with 15+ REST APIs, AES encryption & 40% faster search | Kotlin, Compose, MVVM, SQLite |
+| **PillPort** | Full-stack pharmacy app with 15+ REST APIs, AES encryption & 40% faster search | Kotlin, Compose, MVVM, Python, Flask, Retrofit, SQLite |
 | **NewsSwift** | Real-time news app with 5+ categories, smart filtering & 30% faster load | Kotlin, Compose, Retrofit, MVVM |
 | **WeatherNow** | Multi-location weather app with 7-day forecast & optimized caching | Kotlin, Compose, REST API |
 | **EasyConnect** | Contact manager supporting 200+ contacts with smooth MVVM state management | Kotlin, Compose, Room |
