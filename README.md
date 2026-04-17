@@ -11,7 +11,7 @@
   <a href="https://www.hackerrank.com/profile/tarundadhich05">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/u/tarun-shaarma45/">
+  <a href="https://leetcode.com/u/tarun-sharma45/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
@@ -44,10 +44,10 @@
   <a href="https://www.linkedin.com/in/tarun-sharma-b1b20b244/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/tarundadhich05" target="_blank">
+  <a href="https://www.hackerrank.com/profile/tarundadhich05" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/tarun-shaarma45" target="_blank">
+  <a href="https://leetcode.com/tarun-sharma45" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-sharma05" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tarun-sharma05" alt="GitHub Streak" />
 </p>
 
 <p align="center">
